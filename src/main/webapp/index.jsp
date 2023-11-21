@@ -80,7 +80,7 @@
                 WELCOME To WIT Solapur
             </div>
             <div class="left">
-                <img src="wit.jpg" height="50%" width="90%" >
+                <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/WIT_Main_Building.jpg" height="50%" width="90%" >
             </div>
         </div>
     </main>
