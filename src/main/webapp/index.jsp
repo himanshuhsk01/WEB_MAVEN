@@ -52,12 +52,12 @@
 
 <div id="container">
     <div class="image-container" onclick="showQuote(1)">
-        <img src="https://images.app.goo.gl/poiGNijMtd1WW6xH7" alt="Image 1" width="200" height="200">
+        <img src="image1.jpg" alt="Image 1" width="200" height="200">
         <p class="quote" id="quote1">Think big</p>
     </div>
 
     <div class="image-container" onclick="showQuote(2)">
-        <img src="https://images.app.goo.gl/zsckGwdGHwRgS3ek8" alt="Image 2" width="200" height="200">
+        <img src="image2.jpg" alt="Image 2" width="200" height="200">
         <p class="quote" id="quote2">song is soul</p>
     </div>
 </div>
