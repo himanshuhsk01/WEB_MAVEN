@@ -52,7 +52,7 @@
 
 <div id="container">
     <div class="image-container" onclick="showQuote(1)">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/WIT_Main_Building.jpg" alt="Image 1" width="200" height="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/WIT_Main_Building.jpg"  width="200" height="200">
         <p class="quote" id="quote1">Think big</p>
     </div>
 
